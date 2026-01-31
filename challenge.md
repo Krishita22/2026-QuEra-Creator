@@ -48,3 +48,4 @@ Magic State distillation on distance 5 color code
 
 ![MSDScene.gif](./assets/MSDScene.gif)
 
+You can also check this [blog post](https://www.quera.com/blog-posts/quantum-creators-con-transforms-learning-of-neutral-atom-quantum-computing) on the Quantrum Creators Con, a creator-centric hackathon QuEra held in 2024 in NY, to look for further inspiration!
